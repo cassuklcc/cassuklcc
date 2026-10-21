@@ -11,10 +11,10 @@ actually use.
 - 🎓 M.Sc. in Industrial Engineering at Kadir Has University (2027)
 
 ## Tech I work with
-**Languages:** Python · Go · C · R · JavaScript
-**Frontend:** React
-**Databases:** PostgreSQL
-**DevOps & Infra:** Docker · Linux servers · GitHub Actions · Git
+- **Languages:** Python · Go · C · R · JavaScript
+- **Frontend:** React
+- **Databases:** PostgreSQL
+- **DevOps & Infra:** Docker · Linux servers · GitHub Actions · Git
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/cansukılıc)
